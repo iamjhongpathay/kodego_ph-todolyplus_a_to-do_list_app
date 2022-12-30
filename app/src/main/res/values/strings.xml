@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Todoly Plus - ToDo List</string>
+    <string name="app_name">Todoly Plus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Content Discription
+    <string name="fab_add_list">FAB Add List</string>
+
+    //Edit Text
+    <string name="et_task_name">Task</string>
+    <string name="et_description">Describe your task...</string>
+
+    //Button
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+
+    //TextView
+    <string name="tv_task">Task Name</string>
+    <string name="tv_description">No Description</string>
 </resources>

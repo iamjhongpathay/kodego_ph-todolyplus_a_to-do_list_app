@@ -1,4 +1,3 @@
 package com.kodego.app.todolyplus_todolist.db
 
-class Task {
-}
+data class Task(var task: String, var description: String, var isTaskDone: Boolean = false)
