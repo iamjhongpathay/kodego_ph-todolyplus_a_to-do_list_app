@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458093728246",
+    "project_id": "todoly-plus",
+    "storage_bucket": "todoly-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458093728246:android:1e24b24e13ac64d8a337d7",
+        "android_client_info": {
+          "package_name": "com.kodego.app.todolyplus_todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458093728246-fvaebgqs0ll9g4kjfsrn8umheinpadqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBPLWC_9WhU3hNfDGGkI-ERUvEGo9Hac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458093728246-fvaebgqs0ll9g4kjfsrn8umheinpadqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
